@@ -1,0 +1,15 @@
+# testrepo
+TEST REPOSITORY 
+
+git init
+
+
+git add .
+
+git commit -m "a name" -a
+
+git remote add origin https://github.com/radarsh14/vajravyuha.git
+
+git remote rm origin
+
+git push -u origin master
